@@ -1,0 +1,146 @@
+.main{
+  background-color: rgb(61, 88, 79);
+  padding: 20px;
+ 
+}
+body{
+  margin: 0;
+  padding: 0;
+}
+.nav-logo img{
+  width: 150px;
+  margin-left: 30px;
+}
+
+.nav-container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  border-radius: 5px;
+ 
+}
+
+.nav-contant ul{
+  display: flex;
+  gap: 40px;
+  list-style-type: none;
+  text-align: center;
+  align-items: center;
+  margin-right: 50px;
+}
+
+.nav-contant ul li a{
+  text-decoration: none;
+  font-size: 20px;
+color: white;
+font-weight: 900;
+}
+.nav-contant button{
+  background-color: rgb(31, 148, 216);
+  color: white;
+  height: 40px;
+  width: 200px;
+  font-size: 15px;
+  border: none;
+  border-radius: 40px;
+
+}
+.nav-contant button:hover{
+background-color: white;
+  color: black;
+  cursor: pointer;
+}
+
+.hero-content{
+  color: white;
+  font-size: 25px;
+  margin-left: 40px;
+  margin-top: 70px;
+}
+.hero-content button{
+  background-color: rgb(31, 148, 216);
+  color: white;
+  height: 50px;
+  width: 170px;
+  font-size: 15px;
+  border: none;
+  border-radius: 10px;
+  margin-bottom: 90px;
+
+}
+.hero-content button:hover{
+  background-color: white;
+  color: black;
+  cursor: pointer;
+}
+.card-container{
+  background-color: aquamarine;
+  display:grid;
+  gap: 20px;
+  grid-template-columns: auto auto auto;
+  justify-content: center;
+  
+}
+.card-1{
+  background-color: white;
+  padding: 30px 60px;
+}
+.card-2{
+  background-color: white;
+  padding: 30px 60px;
+}
+.card-3{
+  background-color: white;
+  padding: 30px 60px;
+}
+.card-4{
+  background-color: white;
+  padding: 30px 60px;
+}
+.card-5{
+  background-color: white;
+  padding: 30px 60px;
+}
+.card-6{
+  background-color: white;
+  padding: 30px 60px;
+}
+.text{
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.container{
+  background-color: aquamarine;
+  font-size: 20px;
+  padding: 50px;
+ 
+}
+.card-1 span{
+  font-size: 50px;
+  color: rgb(115, 115, 233);
+}
+.card-2 span{
+  font-size: 50px;
+  color: rgb(115, 115, 233);
+}
+.card-3 span{
+  font-size: 50px;
+  color: rgb(115, 115, 233);
+}
+.card-4 span{
+  font-size: 50px;
+  color: rgb(115, 115, 233);
+}
+.card-5 span{
+  font-size: 50px;
+  color: rgb(115, 115, 233);
+}
+.card-6 span{
+  font-size: 50px;
+  color: rgb(115, 115, 233);
+}
+.text h1{
+  font-size: ;
+}

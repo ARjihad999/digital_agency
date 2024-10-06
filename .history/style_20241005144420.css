@@ -1,0 +1,171 @@
+.main{
+ /*  background-color: rgb(61, 88, 79); */
+background-image: linear-gradient(rgba(57, 67, 77, 0.7), rgba(37, 37, 51, 0.7)), url(https://websitedemos.net/agency-02/wp-content/uploads/sites/30/2020/06/home-hero-bg.jpg?fbclid=IwY2xjawFuhgBleHRuA2FlbQIxMAABHSB1peB4xNd5lWXQLNhYv2maI0kYvhv3tD65LF_cy3n6JIXYaNQ6RzuI5w_aem_ZakNgyAw7iyMJQo57JcSgg);
+background-size: 100%;
+  padding: 20px;
+ 
+}
+body{
+  margin: 0;
+  padding: 0;
+}
+.nav-logo img{
+  width: 150px;
+  margin-left: 30px;
+}
+
+.nav-container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  border-radius: 5px;
+ 
+}
+
+.nav-contant ul{
+  display: flex;
+  gap: 40px;
+  list-style-type: none;
+  text-align: center;
+  align-items: center;
+  margin-right: 50px;
+}
+
+.nav-contant ul li a{
+  text-decoration: none;
+  font-size: 20px;
+color: white;
+font-weight: 900;
+}
+.nav-contant button{
+  background-color: rgb(31, 148, 216);
+  color: white;
+  height: 40px;
+  width: 200px;
+  font-size: 15px;
+  border: none;
+  border-radius: 40px;
+
+}
+.nav-contant button:hover{
+background-color: white;
+  color: black;
+  cursor: pointer;
+}
+
+.hero-content{
+  color: white;
+  font-size: 25px;
+  margin-left: 40px;
+  margin-top: 70px;
+}
+.hero-content button{
+  background-color: rgb(31, 148, 216);
+  color: white;
+  height: 50px;
+  width: 170px;
+  font-size: 15px;
+  border: none;
+  border-radius: 10px;
+  margin-bottom: 90px;
+
+}
+.hero-content button:hover{
+  background-color: white;
+  color: black;
+  cursor: pointer;
+}
+.card-container{
+  background-color: aquamarine;
+  display:grid;
+  gap: 20px;
+  grid-template-columns: auto auto auto;
+  justify-content: center;
+  
+}
+.card-1{
+  background-color: white;
+  padding: 30px 60px;
+}
+.card-2{
+  background-color: white;
+  padding: 30px 60px;
+}
+.card-3{
+  background-color: white;
+  padding: 30px 60px;
+}
+.card-4{
+  background-color: white;
+  padding: 30px 60px;
+}
+.card-5{
+  background-color: white;
+  padding: 30px 60px;
+}
+.card-6{
+  background-color: white;
+  padding: 30px 60px;
+}
+.text{
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.container{
+  background-color: aquamarine;
+  font-size: 20px;
+  padding: 50px;
+ 
+}
+.card-1 span{
+  font-size: 50px;
+  color: rgb(115, 115, 233);
+}
+.card-2 span{
+  font-size: 50px;
+  color: rgb(115, 115, 233);
+}
+.card-3 span{
+  font-size: 50px;
+  color: rgb(115, 115, 233);
+}
+.card-4 span{
+  font-size: 50px;
+  color: rgb(115, 115, 233);
+}
+.card-5 span{
+  font-size: 50px;
+  color: rgb(115, 115, 233);
+}
+.card-6 span{
+  font-size: 50px;
+  color: rgb(115, 115, 233);
+}
+.text h1{
+  font-size: 60px;
+  color: rgb(75, 75, 139);
+}
+.img-1{
+  /* height: 100px; */
+  width: 200px;
+}
+.img-2{
+  /* height: 100px; */
+  width: 200px;
+}
+.img-3{
+ /*  height: 100px; */
+  width: 200px;
+}
+.img-4{
+   
+  width: 200px;
+}
+.box-contant{
+  display: ;
+ 
+
+
+}

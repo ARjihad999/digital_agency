@@ -1,0 +1,27 @@
+.nav-logo img{
+  width: 150px;
+  margin-left: 30px;
+}
+
+/* .nav-container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(12, 224, 196);
+  box-shadow: 2px 2px 10px rgb(107, 103, 103);
+  border-radius: 5px;
+} */
+
+.nav-contant ul{
+  display: flex;
+  gap: 40px;
+  list-style-type: none;
+  margin-right: 50px;
+}
+
+.nav-contant ul li a{
+  text-decoration: none;
+  font-size: 20px;
+color: #b85b5b;
+font-weight: 900;
+}
